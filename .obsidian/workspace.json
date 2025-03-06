@@ -53,18 +53,35 @@
             "id": "3dab5f6eda3d1d80",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "49770a60b0346b46",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "UTRGV SPRING SEMESTER 2025/Pols/lecture notes/3 5 2025 - PP Notes.md",
+                "file": "UTRGV SPRING SEMESTER 2025/HIST/2 6 2025 - HIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 5 2025 - PP Notes"
+              "title": "2 6 2025 - HIST"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,8 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dab5f6eda3d1d80",
+  "active": "c31f001853838237",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "UTRGV SPRING SEMESTER 2025/HIST/2 6 2025 - HIST.md",
     "UTRGV SPRING SEMESTER 2025/Pols/lecture notes/3 5 2025 - PP Notes.md",
     "UTRGV SPRING SEMESTER 2025/HIST/2 25 25.md",
     "conflict-files-obsidian-git.md",
@@ -262,12 +281,9 @@
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/PHIL 1300/notes/PHIL 1300 notes 8 28 2024.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/PHIL 1300/notes/Module 0 Readings and Videos.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/PHIL 1300/notes/Module 0 Notes.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/test review.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/notes week 5.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png"
   ]
 }

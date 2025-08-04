@@ -107,4 +107,4 @@ Government functions requiring the cooperation of different levels of government
 - Public education - funds and services from the state; schools controlled by local boards; special funds form the federal government
 - Federal Bureau of Investigation and the local and state police-work together and share state crime laboratories
 - Stores and businesses - state licensing boards ensure quality local services; grants-in-aid and block grants given to state and local governments from federal government
-
+ dkjkdajfadfjasdkj

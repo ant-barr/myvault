@@ -123,18 +123,6 @@
             }
           },
           {
-            "id": "bbf838d996e5b3d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/The School of Salamanca Book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The School of Salamanca Book"
-            }
-          },
-          {
             "id": "2914921d9be28ad4",
             "type": "leaf",
             "state": {
@@ -142,6 +130,19 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "06bb751ff0b31433",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
             }
           }
         ],
@@ -309,8 +310,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2914921d9be28ad4",
+  "active": "06bb751ff0b31433",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "UTRGV SPRING SEMESTER 2025/UTRGV Spring Semester.md",
+    "UTRGV SPRING SEMESTER 2025/Pols/2 3 2025.md",
+    "Personal/Data Science/Python/Introduction to pandas and DataFrames.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/t1_history_cs - Tagged.pdf",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Definition of Terms, Week I, Part I.pdf",
@@ -325,7 +330,6 @@
     "3 26 25 - pols notes.md",
     "UTRGV SPRING SEMESTER 2025/HIST/2 25 25.md",
     "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
     "UTRGV SPRING SEMESTER 2025/Pols/Quiz 3 notes.md",
     "UTRGV SPRING SEMESTER 2025/HIST",
     "UTRGV SPRING SEMESTER 2025/Pols/lecture notes",
@@ -346,8 +350,6 @@
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 24 24 Econ - chapter 9.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 22 24 Econ lecture notes.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 2/CHAPTER 2 NOTES - ECON.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 1/CHAPTER 1 VOCABULARY - ECON.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 1/CHAPTER 1 SUMMARY - ECON.md",
     "Untitled 1.canvas",
     "UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png"
   ]
